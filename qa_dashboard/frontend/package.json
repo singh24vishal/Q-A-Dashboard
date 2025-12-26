@@ -1,0 +1,19 @@
+{
+  "name": "qa-dashboard",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "classnames": "^2.5.1",
+    "dayjs": "^1.11.19",
+    "next": "^12.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-toastify": "^11.0.5",
+    "react-websocket": "^1.0.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
+}
